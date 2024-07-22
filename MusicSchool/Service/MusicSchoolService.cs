@@ -150,6 +150,9 @@ namespace MusicSchool.Service
             document.Save(musicSchoolPath);
         }
 
-
+        public static void shlomo()
+        {
+            Console.WriteLine("blah");
+        }
     }
 }
