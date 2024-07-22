@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<music-school>
+  <class-room name="guitar">
+    <techer name="Enosh" />
+    <student name="shlomo">
+      <instrument>piano</instrument>
+    </student>
+    <student name="Israel">
+      <instrument>Guitar</instrument>
+      <instument>chawwa</instument>
+    </student>
+  </class-room>
+</music-school>
